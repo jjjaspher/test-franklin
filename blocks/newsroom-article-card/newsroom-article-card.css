@@ -1,0 +1,46 @@
+.newsroom-article-card {
+  border: 1px solid #cccccc;
+  border-top: 4px solid #6c2cb9;
+  padding: 15px;
+  margin-bottom: 50px;
+}
+.newsroom-article-card__header {
+  margin-bottom: 13px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.newsroom-article-card__header h1 {
+  margin-top: unset;
+  margin-bottom: unset;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 1.2;
+}
+.newsroom-article-card__header h1 a {
+  color: #000;
+}
+.newsroom-article-card__header h1 a:hover {
+  color: #035fe6;
+}
+.newsroom-article-card__description p {
+  font-size: 16px;
+  color: #000;
+  line-height: 1.6;
+}
+.newsroom-article-card__footer {
+  display: flex;
+  justify-content: space-between;
+}
+.newsroom-article-card__cta-button {
+  text-transform: uppercase;
+  font-size: 16px;
+  font-weight: 600;
+  color: #004dff;
+}
+.newsroom-article-card__date p {
+  margin: unset;
+  font-size: 12px;
+  font-weight: 600;
+  line-height: 1.33;
+  color: #000;
+}/*# sourceMappingURL=newsroom-article-card.css.map */
